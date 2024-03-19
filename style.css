@@ -1,4 +1,28 @@
-header{
+*{
+    margin: 0;
+    padding: 0;
+}
+.cabecalho{
     background-color: blue;
     color: #FFFFFF;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
+}
+.cabecalho-imagem{
+width: 30%;
+padding: 0 15px;
+
+}
+.div-cabecalho-logo{
+    display: flex;
+}
+.cabecalho-lista-item{
+    display: inline-block;
+    margin: 0 22px;
+    font-size: 24px;
+}
+.cabecalho-titulo{
+    padding: 20px 0;
 }

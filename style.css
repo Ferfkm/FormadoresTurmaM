@@ -2,6 +2,22 @@
     margin: 0;
     padding: 0;
 }
+.poppins-regular {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .poppins-bold {
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+
+  body{
+    font-family: "Poppins", sans-serif;
+  }
+  
 .cabecalho{
     background-color: #10D9FA;
     color: #FFFFFF;
@@ -45,4 +61,14 @@ padding: 0 15px;
 }
 .escola-div-conteudo{
     width: 35%;
+}
+.estudante-imagem{
+    width: 220px;
+}
+.estudante-icone{
+    width: 24px;
+}
+.estudante-div{
+    text-align: center;
+    padding: 16px 0;
 }

@@ -72,3 +72,14 @@ padding: 0 15px;
     text-align: center;
     padding: 16px 0;
 }
+.estudante-titulo{
+    text-align: center;
+    padding: 25px 0;
+}
+.estutante-todos{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+}
+.estudante{
+    background-color: #7b8f93;
+}
